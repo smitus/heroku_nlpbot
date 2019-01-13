@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const robot = new Discord.Client();
 
-robot.login("NTE4NTY4MTU3NzExOTU4MDE3.Dw_nvg.fO8V1Zv9Hpngow-DhZz4F-safCc");
+robot.login("NTE4NTY4MTU3NzExOTU4MDE3.DxwtWA.O6PVOQkqFqtaVGN0FKOjGWvuZ4I");
 
 robot.on('message', (message) => {
   if (message.content == "qd") {
